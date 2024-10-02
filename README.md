@@ -1,2 +1,2 @@
 # API-REST
-API REST utilizando Express 
+API REST utilizando Express, PrimsCliente e MongoDB
